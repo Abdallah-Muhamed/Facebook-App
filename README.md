@@ -1,2 +1,2 @@
 # Facebook-App
-simulates a social media 
+This repository contains a Windows Forms application built in C# using the .NET framework. The application, named "Fb," simulates a social media platform with user profiles, posts, and friends functionalities. Users can create and edit their profiles, make posts, upload profile and cover pictures, and view their friends. The code manages user data and posts through file I/O operations and supports basic interaction with the graphical user interface.
